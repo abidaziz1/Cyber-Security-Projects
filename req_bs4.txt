@@ -1,0 +1,5 @@
+The requests and BeautifulSoup modules are great as long as you can 
+figure out the URL you need to pass to requests.get(). However, sometimes 
+this isn’t so easy to find. Or perhaps the website you want your program to 
+navigate requires you to log in first. The selenium module will give your pro
+grams the power to perform such sophisticated tasks.
